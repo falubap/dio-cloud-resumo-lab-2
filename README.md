@@ -2,7 +2,7 @@
 Resumo do módulo **"Benefícios da computação em nuvem"** e do laboratório **"Criando máquinas virtuais no Azure"** do curso **"Introdução a cloud com Azure"** da **DIO**.
 
 ## Benefícios da computação em nuvem
-Existem x benefícios principais relacionados à computação em nuvem:
+Existem 5 benefícios principais relacionados à computação em nuvem:
 
 * Alta disponibilidade;
 * Escalabilidade e elasticidade;
